@@ -1,4 +1,4 @@
-#REACT-NATIVE-LAYOUT
+# REACT-NATIVE-LAYOUT
 
 ### Objective
 * flex-box를 통한 모바일 레이아웃 그리는 예시
